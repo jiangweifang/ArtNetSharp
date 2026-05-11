@@ -1,4 +1,4 @@
-﻿# ArtNetSharp
+# ArtNetSharp
 
 [![License][mit-badge]][mit-url]
 
